@@ -1,0 +1,3 @@
+index:
+    path: /count
+    controller: App\Controller\MainController::index
